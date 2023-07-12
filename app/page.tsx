@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Post } from './lib/interface';
+import { Post } from './lib/Interface';
 import { client } from './lib/sanity';
 
 async function getData() {
